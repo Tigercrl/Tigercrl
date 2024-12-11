@@ -2,8 +2,9 @@
 
 - 我是一个学生！
 - 我喜欢Minecraft，创作Minecraft资源！
-- 擅长HTML, CSS, JS, TS, Vue, NodeJS, Python和Java！
-- 在学C#和Rust！
+- 精通HTML, CSS, JS, TS, Vue, NodeJS, Java和Kotlin！
+- 会C#和Python！
+- 在学Rust！
 
 ### GitHub Stats
 ![Tigercrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigercrl&show_icons=true&theme=default)
