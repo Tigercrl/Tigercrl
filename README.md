@@ -3,7 +3,7 @@
 - 我目前是一名准初三学生！
 - 喜欢玩 Minecraft、写代码、捣鼓有趣的程序！
 - 在使用 Macbook Pro 进行开发！
-- 当前在为 [MCSL](https://github.com/MCSL-Team) 写代码！
+- 当前在为 [MCSL](https://github.com/MCSLTeam) 写代码！
 
 ![Tigercrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigercrl&show_icons=true&theme=default)
 
@@ -20,18 +20,12 @@
 - 后端语言 Java、Kotlin、Node.js
 - 我还会 C#、Python 等语言但不是很精通
 
-当然，我还会：
-
-- 写 Minecraft 模组插件
-- 写网站和软件
-- 开 Minecraft 服务器
-
 ### 项目
 
 #### Minecraft
 
 - [Modrinth App 汉化](https://github.com/Tigercrl/modrinth/releases)
-- [MCSL Future Web（MCSL 服务器启动器 Web 客户端）](https://github.com/MCSL-Team/MCServerLauncher-Web)
+- [MCSL Future Web](https://github.com/MCSLTeam/MCServerLauncher-Future-Web)
 - 模组 No Realms Button（Realms 按钮移除）
 - 模组 GokiSkills（技能专精）
 
