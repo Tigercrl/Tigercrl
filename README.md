@@ -1,6 +1,6 @@
 ### 大家好吖！我是[Tigercrl](https://www.tigercrl.top/)吖！
 
-- 我目前是一名准初三学生！
+- 我目前是一名初三学生！
 - 喜欢玩 Minecraft、写代码、捣鼓有趣的程序！
 - 在使用 Macbook Pro 进行开发！
 - 当前在为 [MCSL](https://github.com/MCSLTeam) 写代码！
@@ -18,7 +18,7 @@
 
 - 前端语言 HTML、CSS、JS 和 Vue、Nuxt、TS、SCSS、Tauri 等
 - 后端语言 Java、Kotlin、Node.js
-- 我还会 C#、Python 等语言但不是很精通
+- 我还会 C#、Rust、Python 等语言但不是很精通
 
 ### 项目
 
