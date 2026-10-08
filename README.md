@@ -1,9 +1,8 @@
 # Hi, I'm Tigercrl 👋
 
-大家好吖！我是 [Tigercrl](https://www.tigercrl.top/)，一名热爱编程与 Minecraft 开发的初三学生~
+大家好吖！我是 [Tigercrl](https://www.tigercrl.top/)，一名热爱编程与 Minecraft 开发的高一学生~
 
-- 日常使用 MacBook Pro 进行开发
-- 现于 [MCSLTeam](https://github.com/MCSLTeam) 参与开发
+- 日常使用 Mac Studio 进行开发
 - 喜欢捣鼓有趣的程序，用代码实现各种好玩的想法
 
 ![Tigercrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigercrl&show_icons=true&theme=default)
@@ -16,7 +15,7 @@
 - 框架与工具：Vue、Nuxt、Tauri
 
 #### 后端开发
-- 核心语言：Java、Kotlin、Node.js
+- 核心语言：Java、Kotlin、Node.js、GoLang
 
 #### 其他开发语言
 - 具备 Python、C#、Rust 项目开发经验
